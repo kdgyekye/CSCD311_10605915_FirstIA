@@ -1,0 +1,39 @@
+#top{
+    font: menu;
+    color: whitesmoke;
+    font-size: 120%;
+    background-color: darkblue;
+    padding-left: 20px;
+}
+/*#navigation{
+    width: 20%;
+    height: 500px;
+    border: solid black;
+    box-shadow: 2px 3px rgba(204, 204, 192, 0.8);
+    background:  #f0f0f0;
+    padding-left: 10px;
+    margin-left: 0.8%;
+
+}*/
+#head{
+    font-size: 135%;
+    color: #ff8403;
+}
+body{
+    padding-top: 0.5%;
+}
+#regForm{
+    padding: auto;
+    background-color: ghostwhite;
+
+}
+input{
+    background-color: whitesmoke;
+}
+#formHead{
+    background-color: #0f62fc;
+    color: whitesmoke;
+}
+#top{
+    background-color: #0f62fc;
+}
